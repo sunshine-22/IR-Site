@@ -6,10 +6,22 @@ body{
     width: 100%;
     height: 100vh;
 }
-nav{
-    background-color: yellow;
-    color: black;
+.bgcolor{
+    background-color: rgb(252, 252, 2);
+    
 }
+.rcorners {
+    border-radius: 20px;
+    background: #b2bbaf;
+    padding: 5px;
+    
+  }
+  .lcorners {
+    border-radius: 25px;
+    background: #f8f8f8;
+    padding: 5px;
+    
+  }
 .container-fluid .navbar img{
     width: 60px;
     height: 50px;  
